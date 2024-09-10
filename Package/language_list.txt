@@ -1,0 +1,109 @@
+№  Language      ISO-639 code  Text
+--------------------------------------------------------
+1  Afrikaans     af            Begroetings
+2  Albanian      sq            Përshëndes
+3  Amharic       am            ሰላምታ
+4  Arabic        ar            تحيات
+5  Armenian      hy            Ողջույններ
+6  Azerbaijani   az            Salamat
+7  Basque        eu            Agur
+8  Belarusian    be            Прывітанне
+9  Bengali       bn            শুভেচ্ছা
+10  Bosnian       bs            Pozdrav
+11  Bulgarian     bg            Поздрави
+12  Catalan       ca            Salutacions
+13  Cebuano       ceb           Mga Pagbati
+14  Chichewa      ny            Moni
+15  Chinese (simplified)  zh-cn         问候
+16  Chinese (traditional)  zh-tw         問候
+17  Corsican      co            Saluti
+18  Croatian      hr            Pozdravi
+19  Czech         cs            Pozdravy
+20  Danish        da            Hilsen
+21  Dutch         nl            Groeten
+22  English       en            Greetings
+23  Esperanto     eo            Salutojn
+24  Estonian      et            Tervitused
+25  Filipino      tl            Pagbati
+26  Finnish       fi            Tervehdykset
+27  French        fr            Salutations
+28  Frisian       fy            Groetnis
+29  Galician      gl            Saúdos
+30  Georgian      ka            მისალმებები
+31  German        de            Grüße
+32  Greek         el            Χαιρετίσματα
+33  Gujarati      gu            શુભેચ્છાઓ
+34  Haitian creole  ht            Bonjou
+35  Hausa         ha            Gaisuwa
+36  Hawaiian      haw           Aloha
+37  Hebrew        iw            ברכות
+38  Hebrew        he            ברכות
+39  Hindi         hi            अभिवादन
+40  Hmong         hmn           Kev txais tos
+41  Hungarian     hu            Üdvözlet
+42  Icelandic     is            Kveðja
+43  Igbo          ig            Ekele
+44  Indonesian    id            Salam
+45  Irish         ga            Beannachtaí
+46  Italian       it            Saluti
+47  Japanese      ja            ご挨拶
+48  Javanese      jw            Salam
+49  Kannada       kn            ಶುಭಾಶಯಗಳು
+50  Kazakh        kk            Сәлем
+51  Khmer         km            ការស្វាគមន៍
+52  Korean        ko            인사말
+53  Kurdish (kurmanji)  ku            Silav
+54  Kyrgyz        ky            Салам
+55  Lao           lo            ຄໍາອວຍພອນ
+56  Latin         la            Salvete
+57  Latvian       lv            Sveicieni
+58  Lithuanian    lt            Sveikinimai
+59  Luxembourgish  lb            Gréiss
+60  Macedonian    mk            Поздрав
+61  Malagasy      mg            fiarahabana
+62  Malay         ms            Salam
+63  Malayalam     ml            ആശംസകൾ
+64  Maltese       mt            Tislijiet
+65  Maori         mi            Ohaoha
+66  Marathi       mr            शुभेच्छा
+67  Mongolian     mn            Мэндчилгээ
+68  Myanmar (burmese)  my            မေှာင်ရန်
+69  Nepali        ne            अभिवादन
+70  Norwegian     no            Hilsen
+71  Odia          or            ନମସ୍କାର
+72  Pashto        ps            سلامونه
+73  Persian       fa            سلام
+74  Polish        pl            Pozdrowienia
+75  Portuguese    pt            Saudações
+76  Punjabi       pa            ਨਮਸਕਾਰ
+77  Romanian      ro            Salutări
+78  Russian       ru            Привет
+79  Samoan        sm            Faʻafeiloaʻiga
+80  Scots gaelic  gd            Beannachdan
+81  Serbian       sr            Поздрав
+82  Sesotho       st            Litumeliso
+83  Shona         sn            Kwaziwai
+84  Sindhi        sd            موڪلن ڪرڻ
+85  Sinhala       si            සුබ පැතුම්
+86  Slovak        sk            Pozdravy
+87  Slovenian     sl            Pozdrav
+88  Somali        so            Salaan
+89  Spanish       es            Saludos
+90  Sundanese     su            Salam
+91  Swahili       sw            Salamu
+92  Swedish       sv            Hälsningar
+93  Tajik         tg            Салом
+94  Tamil         ta            வாழ்த்துக்கள்
+95  Telugu        te            శుభాకాంక్షలు
+96  Thai          th            คำทักทาย
+97  Turkish       tr            Selamlar
+98  Ukrainian     uk            Привіт
+99  Urdu          ur            سلام
+100  Uyghur        ug            سالام
+101  Uzbek         uz            Salomlar
+102  Vietnamese    vi            Lời chào
+103  Welsh         cy            Cyfarchion
+104  Xhosa         xh            Imibuliso
+105  Yiddish       yi            גרוס
+106  Yoruba        yo            Ikini
+107  Zulu          zu            Imikhonzo
